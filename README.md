@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**kw1c-SchuurmansMark/kw1c-SchuurmansMark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    <a>
+        <img src="avatar.png" alt="avatar" width="80" height="80" />
+    </a>
+    <h1>Mark Schuurmans</h1>
+    <p>A 17 year old software developer from the Netherlands</p>
+    <a href="https://github.com/Markiesch/portfolio">Portfolio</a>
+    ·
+    <a href="https://github.com/Markiesch/AwesomeJS">AwesomeJS</a>
+    ·
+    <a href="https://github.com/Markiesch/EpicPunishments">Epic Punishments</a>
+</div>
